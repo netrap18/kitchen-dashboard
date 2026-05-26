@@ -23,7 +23,7 @@ HOW TO RUN:
 4. Run the dashboard:
    streamlit run app.py
 
-5. Opens automatically at https://netrap18-kitchen-dashboard.streamlit.app
+5. Opens automatically at https://kitchen-dashboard-k55nntg5cvqxg7fh4bz8yx.streamlit.app/
 
 ASSUMPTIONS:
 - No CM column in source data. Gross Margin used as CM proxy.
